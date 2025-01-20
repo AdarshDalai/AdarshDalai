@@ -5,9 +5,13 @@ Welcome to my GitHub profile! 🚀 I’m a passionate Android Developer and Back
 🌟 About Me
 
 •	🔭 I’m currently building NexusPath, a social media platform with unique features for content categorization and simplicity.
+
 •	🌱 I’m exploring React Native, React.js, and Node.js to broaden my full-stack development skills.
+
 •	💡 I aim to create innovative tools, like an AI companion for medical assistance and a personal portfolio website.
+
 •	💼 Skilled in Jetpack Compose, MVVM architecture, FastAPI, Supabase, Cloudflare, and Ktor for API integrations.
+
 •	📫 Connect with me on LinkedIn or Twitter.
 
 # 💻 Tech Stack:
@@ -26,7 +30,9 @@ Welcome to my GitHub profile! 🚀 I’m a passionate Android Developer and Back
  🎯 Goals for 2025
  
  •	Master advanced backend architecture with microservices.
+ 
  •	Enhance my iOS development skills using SwiftUI.
+ 
  •	Build scalable apps with React Native and React.js.
 
 📈 GitHub Stats
