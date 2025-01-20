@@ -31,3 +31,4 @@ Tech Stack: FastAPI, Supabase, Jetpack Compose, SwiftUI
 	•	Build scalable apps with React Native and React.js.
 
 📈 GitHub Stats
+![AdarshDalai's Stats](https://github-readme-stats.vercel.app/api?username=AdarshDalai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
