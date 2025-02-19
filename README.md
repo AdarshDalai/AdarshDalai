@@ -4,9 +4,9 @@ Welcome to my GitHub profile! 🚀 I’m a passionate Android Developer and Back
 
 # 🌟 About Me
 
-•	🔭 I’m currently building NexusPath, a social media platform with unique features for content categorization and simplicity.
+•	🔭 I’m currently building Utter, a social media application for Students and Alumni with an AI based recommendation system.
 
-•	🌱 I’m exploring React Native, React.js, and Node.js to broaden my full-stack development skills.
+•	🌱 I’m exploring SwiftUI, Next.js, and FastAPI to broaden my mobile development and microservices arch skills.
 
 •	💡 I aim to create innovative tools, like an AI companion for medical assistance and a personal portfolio website.
 
