@@ -1,40 +1,37 @@
-# 👋 Hi, I’m Adarsh
+# Adarsh Dalai
 
-Welcome to my GitHub profile! 🚀 I’m a passionate Android Developer and Backend Developer with expertise in creating robust and user-friendly applications.
+Writing code. Mostly Android (Kotlin/Jetpack Compose) and backend systems (Python/FastAPI). The goal is software that works, scales, and doesn't waste people's time.
 
-# 🌟 About Me
+---
 
-•	🔭 I’m currently building Utter, a social media application for Students and Alumni with an AI based recommendation system.
+### What I'm Doing Now:
 
-•	🌱 I’m exploring SwiftUI, Next.js, and FastAPI to broaden my mobile development and microservices arch skills.
+* Currently wrestling with **Utter** – a social platform concept. Using FastAPI for the backend, Supabase for data, and Jetpack Compose/SwiftUI for the frontends. Trying to make AI recommendations less useless (using T5/FAISS principles from previous work like **AppConnX**).
+* Also built **Tasker**, an Android app using the Gemini API to see if AI could actually help organize tasks instead of just generating boilerplate. Jury's still out, but the code runs.
 
-•	💡 I aim to create innovative tools, like an AI companion for medical assistance and a personal portfolio website.
+### Past Work That Didn't Explode:
 
-•	💼 Skilled in Jetpack Compose, MVVM architecture, FastAPI, Supabase, Cloudflare, and Ktor for API integrations.
+* **Internship @ Ingenious-tech World:**
+    * Built a modular Android auth UI with Jetpack Compose. Made it a library on JitPack because writing the same code twice is dumb. Apparently improved onboarding by 20% and cut redundancy by 30%. Fine.
+    * Got a 3D panoramic viewer working using Google's Street View API and gyroscope data. It showed pictures in 3D.
 
-•	📫 Connect with me on LinkedIn or Twitter.
+### Tools I Use (Because they get the job done):
 
-# 💻 Tech Stack:
+* **Languages:** Kotlin, Java, Python primarily. Swift, C, Javascript when necessary.
+* **Frameworks:** Jetpack Compose, FastAPI. Have touched SwiftUI, TensorFlow, PyTorch.
+* **Backend/Infra:** Docker, PostgreSQL, MongoDB, Firebase, AWS, Azure. Basically, whatever cloud or container thing makes sense for the problem.
+* **AI/ML:** Messed with T5, FAISS, RAG, Gemini API. Practical applications, not just research papers.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+---
 
-# 🚀 Projects
+### Tech Stack (Badges are apparently a thing):
 
-🔹 Utter
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=plastic&logo=jetpackcompose&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
 
- A social media platform for content creators.
- Tech Stack: FastAPI, Supabase, Jetpack Compose, SwiftUI
+---
 
-  •	Categorized content, media uploads, notifications, and more!
+### The Plan:
 
- # 🎯 Goals for 2025
- 
- •	Master advanced backend architecture with microservices.
- 
- •	Enhance my iOS development skills using SwiftUI.
- 
- •	Build scalable apps with React Native and React.js.
+Keep building things. Get better at designing systems that don't fall over (microservices, maybe). Make the iOS side (SwiftUI) less painful. Avoid unnecessary complexity.
 
-# 📈 GitHub Stats
-
-![AdarshDalai's Stats](https://github-readme-stats.vercel.app/api?username=AdarshDalai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
